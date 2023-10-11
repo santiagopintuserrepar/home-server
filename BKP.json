@@ -185,9 +185,9 @@
       "imgSrc": "/errepar/assets/images/notas/2023/articulos/contenedores-importacion-exportacion.jpg",
       "title": "El Gobierno anunció “dólar pyme”: se pone en marcha el próximo lunes",
       "body": "Se busca incentivar el aumento de las exportaciones de las pymes y el ingreso de divisas",
-      "negocio": "erreius",
+      "negocio": "errepar",
       "date": "05/10/2023",
-      "isDestacado": false
+      "isDestacado": true
     },
     {
       "id": 6,
@@ -195,9 +195,9 @@
       "imgSrc": "/errepar/assets/images/notas/2023/extras/consultas-orientacion-profesional-federal_carrusel.png",
       "title": "Nuestros asesores responden desde distintos puntos del país",
       "body": "Violeta Salvador Bizet te cuenta sobre las consultas impositivas qué tenés disponible con nuestras Consultas de Orientación Profesional",
-      "negocio": "erreius",
+      "negocio": "errepar",
       "date": "03/10/2023",
-      "isDestacado": false
+      "isDestacado": true
     },
     {
       "id": 7,
@@ -207,6 +207,126 @@
       "body": "El ministro de Economía anunció que, si es elegido como presidente, Argentina tendrá una moneda digital",
       "negocio": "both",
       "date": "04/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 8,
+      "href": "/errepar/articulos/2023/10/herramientas-calculadora-ganancias-830.page",
+      "imgSrc": "/errepar/assets/images/articulos/calculadora-rg-830-carrusel.png",
+      "title": "Calculadora de retenciones del Impuesto a las Ganancias RG (AFIP) 830",
+      "body": "Te presentamos esta herramienta, actualizada con los importes aplicables a partir del 1 de octubre de 2023 s/RG 5423",
+      "negocio": "errepar",
+      "date": "03/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 9,
+      "href": "/errepar/articulos/2023/10/convenio-multilateral-atribucion-de-ingresos.page",
+      "imgSrc": "/errepar/assets/images/articulos/convenio-multilateral-blog.png",
+      "title": "Convenio Multilateral: Atribución de ingresos",
+      "body": "Jorge Arosteguy nos comenta un caso concreto donde se convalida la asignación de ingresos al destino final de bienes",
+      "negocio": "both",
+      "date": "04/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 10,
+      "href": "/errepar/articulos/2023/10/responsabilidad-banco-consumos-no-realizados-con-la-tarjeta-de-credito.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/tarjetas-credito-impuestos.png",
+      "title": "Condena por daño moral por consumos no realizados con la tarjeta",
+      "body": "Un banco no actuó con la debida diligencia tras la denuncia y deberá indemnizar a su cliente",
+      "negocio": "both",
+      "date": "03/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 11,
+      "href": "/errepar/articulos/2023/10/riesgos-del-trabajo-aportes-a-integrar-por-las-art-y-empleadores-autoasegurados.page",
+      "imgSrc": "/errepar/assets/images/articulos/riesgos-del-trabajo.png",
+      "title": "Riesgos del trabajo: nuevo aporte con destino al Fondo de Reserva",
+      "body": "Se determina el aporte a integrar por las ART y los Empleadores Autoasegurados",
+      "negocio": "both",
+      "date": "05/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 12,
+      "href": "refuerzo-para-trabajadores-informales-normas-aclaratorias-y-complementarias",
+      "imgSrc": "/errepar/assets/images/articulos/Salario-1.png",
+      "title": "Refuerzo para trabajadores informales: normas aclaratorias y complementarias",
+      "body": "Se aprueban las normas aclaratorias y complementarias del refuerzo para trabajadores informales",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 13,
+      "href": "creacion-plan-integrado-de-salud",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/medico-revisando-paciente-prestacion-integral.jpg",
+      "title": "Creación del Plan Argentino Integrado de Servicios de Salud (PAISS)",
+      "body": "Busca desarrollar un modelo de salud integrado y sustentable que garantice el acceso efectivo a la salud",
+      "negocio": "erreius",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 14,
+      "href": "/errepar/articulos/2023/10/operacion-conjunta-fuga-millonaria-falsas-importaciones.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/lavado-activos-nota-1.png",
+      "title": "Operación conjunta revela fuga millonaria a través de falsas importaciones",
+      "body": "La investigación involucra la presunta fuga de USD 400 millones por parte de 176 empresas, a través del Sistema Integral de Monitoreo de Importaciones",
+      "negocio": "errepar",
+      "date": "05/10/2023",
+      "isDestacado": false
+    },
+    {
+      "id": 15,
+      "href": "sintesis-errepar-para-profesionales-en-ciencias-economicas-al-5-10-2023",
+      "imgSrc": "/errepar/assets/images/articulos/sintesis-errepar-blog-eol.png",
+      "title": "Síntesis Errepar al 5/10",
+      "body": "Te presentamos lo más importante de la semana para que siempre te enteres de las últimas noticias",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 16,
+      "href": "/errepar/articulos/2023/10/ganancias-eliminan-retenciones-ganancias-empleados-2024.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/calculadora-5.png",
+      "title": "Ganancias 2024: se publicó la ley que establece un impuesto cedular a las altas rentas",
+      "body": "Aplica para sueldos, jubilaciones y pensiones que superen el equivalente a 180 SMVM anuales, con una escala del 27% al 35%",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 17,
+      "href": "/errepar/articulos/2023/10/mercado-de-cambios-dolar-mep-dolar-ccl.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/dolar-exteriorizacion.png",
+      "title": "Mercado de cambios: nueva medida de restricción al dólar",
+      "body": "La CNV adecúa plazos para la venta de valores negociables con liquidación en moneda extranjera",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 18,
+      "href": "/errepar/articulos/2023/10/charla-calculadora-retencion-rg-830-novedades.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/calculadora-retencion-rg-830_nota.png",
+      "title": "Reviví la charla gratuita: \"Calculadora de Retención RG 830. Últimas novedades\"",
+      "body": "Romina Franco e Ignacio Kakazu examinaron la herramienta tras la incorporación del nuevo código para diferenciar a los profesionales liberales",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 19,
+      "href": "/errepar/articulos/2023/10/los-argentinos-ven-al-dolar-cripto-como-una-alternativa-de-ahorro.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/criptomonedas-10.png",
+      "title": "4 de cada 10 argentinos ve al «dólar cripto» como una alternativa de ahorro",
+      "body": "La tendencia de adopción de stablecoins en Argentina se incrementó después de la devaluación post-PASO",
+      "negocio": "errepar",
+      "date": "",
       "isDestacado": false
     }
   ]
