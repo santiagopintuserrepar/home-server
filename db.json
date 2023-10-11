@@ -1,0 +1,333 @@
+{
+  "videos": [
+    {
+      "id:": 1,
+      "imgSrc": "/errepar/assets/images/Videos/consultas-federales-cops.png",
+      "title": "Consultas de Orientación Profesional: respondemos tus consultas desde distintos puntos del país",
+      "date": "03/10/2023",
+      "negocio": "errepar",
+      "videoId": "870479491"
+    },
+    {
+      "id:": 2,
+      "imgSrc": "/errepar/assets/images/Videos/declaracion-en-linea-septiembre.png",
+      "title": "¿Estás por presentar la DDJJ F. 931 de septiembre? No te pierdas estas consideraciones prácticas",
+      "date": "03/10/2023",
+      "negocio": "errepar",
+      "videoId": "870672909"
+    },
+    {
+      "id:": 3,
+      "imgSrc": "/errepar/assets/images/Videos/sancion-clausura-afip-facturas_video.jpeg",
+      "title": "Gastón Vidal Quera analiza dos recientes fallos sobre la sanción de clausura de AFIP por no emitir facturas",
+      "date": "02/10/2023",
+      "negocio": "errepar",
+      "videoId": "870304354"
+    },
+    {
+      "id:": 4,
+      "imgSrc": "/errepar/assets/images/Videos/sintesis-semanal.png",
+      "title": "Síntesis Semanal al 28/9",
+      "date": "29/09/2023",
+      "negocio": "errepar",
+      "videoId": "869519892"
+    },
+    {
+      "id:": 5,
+      "imgSrc": "/errepar/assets/images/Videos/perdida-residencia-fiscal-charla.jpeg",
+      "title": "¡Reviví la charla! Pérdida de la Residencia Fiscal",
+      "date": "29/09/2023",
+      "negocio": "errepar",
+      "videoId": "869532958"
+    },
+    {
+      "id:": 6,
+      "imgSrc": "/errepar/assets/images/Videos/portada-ec-ganancias-jubilados.png",
+      "title": "Marcela Gómez charla acerca de las modificaciones del impuesto a las ganancias para los empleados y jubilados para el próximo período fiscal",
+      "date": "28/09/2023",
+      "negocio": "errepar",
+      "videoId": "868352319"
+    },
+    {
+      "id:": 7,
+      "imgSrc": "/errepar/assets/images/Videos/ingresos-brutos-ventas-online_YT.png",
+      "title": "¡Reviví la charla! Ingresos brutos y las ventas online",
+      "date": "27/09/2023",
+      "negocio": "errepar",
+      "videoId": "868522388"
+    },
+    {
+      "id:": 8,
+      "imgSrc": "/errepar/assets/images/Videos/alivio-pymes-monotributistas-autonomos.png",
+      "title": "Mario Rapisarda comenta las diferentes Medidas de alivio fiscal para monotributistas, autónomos y PYMES encomendadas a la AFIP por la resolución 1416/2023",
+      "date": "27/09/2023",
+      "negocio": "errepar",
+      "videoId": "868720255"
+    },
+    {
+      "id:": 9,
+      "imgSrc": "/errepar/assets/images/Videos/consultas-impositivas-fanny.png",
+      "title": "Te contamos sobre las consultas tributarias que tenés disponible con tu suscripción",
+      "date": "26/09/2023",
+      "negocio": "errepar",
+      "videoId": "868352030"
+    }
+  ],
+  "podcasts": [
+    {
+      "id:": 1,
+      "title": "Errepar Informa",
+      "date": "10/10/2023",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1635803991&amp;visual=true"
+    },
+    {
+      "id:": 2,
+      "title": "Errepar Informa",
+      "date": "09/10/2023",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1635803991&visual=true#"
+    },
+    {
+      "id:": 3,
+      "title": "Errepar Informa",
+      "date": "06/10/2023",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1633869432&visual=true#"
+    },
+    {
+      "id:": 4,
+      "title": "Errepar Informa",
+      "date": "06/10/23",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1633045701&visual=true#"
+    },
+    {
+      "id:": 5,
+      "title": "Errepar Informa",
+      "date": "06/10/23",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1633032009&visual=true#"
+    },
+    {
+      "id:": 6,
+      "title": "Errepar Informa",
+      "date": "05/10/23",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1632250716&visual=true#"
+    },
+    {
+      "id:": 7,
+      "title": "Errepar Informa",
+      "date": "04/10/23",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1631416842&visual=true#"
+    },
+    {
+      "id:": 8,
+      "title": "Errepar Informa",
+      "date": "03/10/23",
+      "negocio": "erreius",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1628511222&visual=true#"
+    },
+    {
+      "id:": 9,
+      "title": "Errepar Informa",
+      "date": "02/10/23",
+      "negocio": "errepar",
+      "podcastURL": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1627859484&visual=true#"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "href": "/errepar/articulos/2023/10/charla-calculadora-retencion-rg-830-novedades.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/charlas-capacitaciones/calculadora-retencion-rg-830_carrusel.png",
+      "title": "Charla gratuita: \"Calculadora de Retención RG 830. Últimas novedades\"",
+      "body": "Último día para inscribirte! Romina Franco e Ignacio Kakazu examinarán la herramienta tras la incorporación del nuevo código para diferenciar a los profesionales liberales",
+      "negocio": "errepar",
+      "date": "04/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 2,
+      "href": "/errepar/articulos/2023/10/feriados-y-dias-no-laborables-de-octubre-2023.page",
+      "imgSrc": "/errepar/assets/images/articulos/feriado.png",
+      "title": "Feriados y días no laborables de octubre: ¿Cómo se liquidan?",
+      "body": "El próximo viernes 13 de octubre será feriado puente por fines turisticos, mientras que el lunes 16 será feriado nacional por el \"Dia del Respeto a la Diversidad Cultural\".",
+      "negocio": "both",
+      "date": "05/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 3,
+      "href": "/errepar/articulos/2023/10/alquileres-compre-sin-IVA-y-reduccion-de-la-jornada-laboral-avanzan-en-diputados.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/diputados-4.png",
+      "title": "Avanzan Alquileres, Compre sin IVA y reducción de la jornada laboral",
+      "body": "Distintas comisiones de la Cámara de Diputados avanzaron ayer en el debate de tres proyectos impulsados por el Gobierno nacional",
+      "negocio": "both",
+      "date": "05/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 4,
+      "href": "/errepar/articulos/2023/10/medidas-alivio-fiscal-micrositio.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/extras/micrositio-alivio-fiscal-2023_carrusel.png",
+      "title": "Conocé el nuevo Micrositio con todas las medidas de Alivio Fiscal",
+      "body": "Desarrollamos un micrositio exclusivo para suscriptores, con el detalle de todas las medidas de alivio fiscal adoptadas en los últimos días",
+      "negocio": "errepar",
+      "date": "03/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 5,
+      "href": "/errepar/articulos/2023/10/el-gobierno-anuncio-el-dolar-pyme-y-se-pone-en-marcha-el-proximo-lunes.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/contenedores-importacion-exportacion.jpg",
+      "title": "El Gobierno anunció “dólar pyme”: se pone en marcha el próximo lunes",
+      "body": "Se busca incentivar el aumento de las exportaciones de las pymes y el ingreso de divisas",
+      "negocio": "errepar",
+      "date": "05/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 6,
+      "href": "/errepar/articulos/2023/10/consultas-federales-tributarias-nota.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/extras/consultas-orientacion-profesional-federal_carrusel.png",
+      "title": "Nuestros asesores responden desde distintos puntos del país",
+      "body": "Violeta Salvador Bizet te cuenta sobre las consultas impositivas qué tenés disponible con nuestras Consultas de Orientación Profesional",
+      "negocio": "errepar",
+      "date": "03/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 7,
+      "href": "/errepar/articulos/2023/10/moneda-digital-argentina-anunciada-por-massa.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/bitcoin-pesos-argentinos-blog.png",
+      "title": "Todo lo que hay que saber sobre la moneda digital argentina",
+      "body": "El ministro de Economía anunció que, si es elegido como presidente, Argentina tendrá una moneda digital",
+      "negocio": "both",
+      "date": "04/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 8,
+      "href": "/errepar/articulos/2023/10/herramientas-calculadora-ganancias-830.page",
+      "imgSrc": "/errepar/assets/images/articulos/calculadora-rg-830-carrusel.png",
+      "title": "Calculadora de retenciones del Impuesto a las Ganancias RG (AFIP) 830",
+      "body": "Te presentamos esta herramienta, actualizada con los importes aplicables a partir del 1 de octubre de 2023 s/RG 5423",
+      "negocio": "errepar",
+      "date": "03/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 9,
+      "href": "/errepar/articulos/2023/10/convenio-multilateral-atribucion-de-ingresos.page",
+      "imgSrc": "/errepar/assets/images/articulos/convenio-multilateral-blog.png",
+      "title": "Convenio Multilateral: Atribución de ingresos",
+      "body": "Jorge Arosteguy nos comenta un caso concreto donde se convalida la asignación de ingresos al destino final de bienes",
+      "negocio": "both",
+      "date": "04/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 10,
+      "href": "/errepar/articulos/2023/10/responsabilidad-banco-consumos-no-realizados-con-la-tarjeta-de-credito.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/tarjetas-credito-impuestos.png",
+      "title": "Condena por daño moral por consumos no realizados con la tarjeta",
+      "body": "Un banco no actuó con la debida diligencia tras la denuncia y deberá indemnizar a su cliente",
+      "negocio": "both",
+      "date": "03/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 11,
+      "href": "/errepar/articulos/2023/10/riesgos-del-trabajo-aportes-a-integrar-por-las-art-y-empleadores-autoasegurados.page",
+      "imgSrc": "/errepar/assets/images/articulos/riesgos-del-trabajo.png",
+      "title": "Riesgos del trabajo: nuevo aporte con destino al Fondo de Reserva",
+      "body": "Se determina el aporte a integrar por las ART y los Empleadores Autoasegurados",
+      "negocio": "both",
+      "date": "05/10/2023",
+      "isDestacado": true
+    },
+    {
+      "id": 12,
+      "href": "refuerzo-para-trabajadores-informales-normas-aclaratorias-y-complementarias",
+      "imgSrc": "/errepar/assets/images/articulos/Salario-1.png",
+      "title": "Refuerzo para trabajadores informales: normas aclaratorias y complementarias",
+      "body": "Se aprueban las normas aclaratorias y complementarias del refuerzo para trabajadores informales",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 13,
+      "href": "creacion-plan-integrado-de-salud",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/medico-revisando-paciente-prestacion-integral.jpg",
+      "title": "Creación del Plan Argentino Integrado de Servicios de Salud (PAISS)",
+      "body": "Busca desarrollar un modelo de salud integrado y sustentable que garantice el acceso efectivo a la salud",
+      "negocio": "erreius",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 14,
+      "href": "/errepar/articulos/2023/10/operacion-conjunta-fuga-millonaria-falsas-importaciones.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/lavado-activos-nota-1.png",
+      "title": "Operación conjunta revela fuga millonaria a través de falsas importaciones",
+      "body": "La investigación involucra la presunta fuga de USD 400 millones por parte de 176 empresas, a través del Sistema Integral de Monitoreo de Importaciones",
+      "negocio": "errepar",
+      "date": "05/10/2023",
+      "isDestacado": false
+    },
+    {
+      "id": 15,
+      "href": "sintesis-errepar-para-profesionales-en-ciencias-economicas-al-5-10-2023",
+      "imgSrc": "/errepar/assets/images/articulos/sintesis-errepar-blog-eol.png",
+      "title": "Síntesis Errepar al 5/10",
+      "body": "Te presentamos lo más importante de la semana para que siempre te enteres de las últimas noticias",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 16,
+      "href": "/errepar/articulos/2023/10/ganancias-eliminan-retenciones-ganancias-empleados-2024.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/calculadora-5.png",
+      "title": "Ganancias 2024: se publicó la ley que establece un impuesto cedular a las altas rentas",
+      "body": "Aplica para sueldos, jubilaciones y pensiones que superen el equivalente a 180 SMVM anuales, con una escala del 27% al 35%",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 17,
+      "href": "/errepar/articulos/2023/10/mercado-de-cambios-dolar-mep-dolar-ccl.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/dolar-exteriorizacion.png",
+      "title": "Mercado de cambios: nueva medida de restricción al dólar",
+      "body": "La CNV adecúa plazos para la venta de valores negociables con liquidación en moneda extranjera",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 18,
+      "href": "/errepar/articulos/2023/10/charla-calculadora-retencion-rg-830-novedades.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/calculadora-retencion-rg-830_nota.png",
+      "title": "Reviví la charla gratuita: \"Calculadora de Retención RG 830. Últimas novedades\"",
+      "body": "Romina Franco e Ignacio Kakazu examinaron la herramienta tras la incorporación del nuevo código para diferenciar a los profesionales liberales",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    },
+    {
+      "id": 19,
+      "href": "/errepar/articulos/2023/10/los-argentinos-ven-al-dolar-cripto-como-una-alternativa-de-ahorro.page",
+      "imgSrc": "/errepar/assets/images/notas/2023/articulos/criptomonedas-10.png",
+      "title": "4 de cada 10 argentinos ve al «dólar cripto» como una alternativa de ahorro",
+      "body": "La tendencia de adopción de stablecoins en Argentina se incrementó después de la devaluación post-PASO",
+      "negocio": "errepar",
+      "date": "",
+      "isDestacado": false
+    }
+  ]
+}
